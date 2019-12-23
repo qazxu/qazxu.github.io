@@ -3,7 +3,7 @@ encoding: utf-8
 # SEO相关信息
 title: xh Blog
 description: xh的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
+keywords: Blog,Java,Html,JavaScript
 author: xh
 footerText: ''
 
@@ -20,7 +20,7 @@ domainUrl: '
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+#tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 menu:
@@ -32,14 +32,14 @@ menu:
     url: /pages/search.html
   - title: 友链
     url: /pages/links.html
-  - title: 留言
-    url: /pages/chat.html
+#  - title: 留言
+#    url: /pages/chat.html
   - title: 关于
     url: /pages/about.html
 
 # 文章底部广告
 # 位置 _includes/adsense.html
-adsense: true
+#adsense: true
 
 # 自定义插件
 # plugin-mta-stats
@@ -66,15 +66,6 @@ customPlugins:
 links:
   - title: TMaize的个人博客
     url: http://blog.tmaize.net
-  - title: 文科中的技术宅
-    url: https://www.townwang.com
-  - title: Auuu Nya Blog
-    url: http://mu1er.cn
-  - title: 春风十里
-    url: https://www.geek-era.com
-  - title: 阿川的个人博客
-    url: https://achuan.io
-  - title: 魏文成博客
-    url: https://www.wwc.ren
-  - title: 06m
-    url: https://www.06m.me
+#  - title: 文科中的技术宅
+#    url: https://www.townwang.com
+
