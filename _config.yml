@@ -8,7 +8,7 @@ author: HD173416b
 footerText: ''
 
 # GitHub.Pages访问站点路径
-githubUrl:'hd173416b.github.io'
+githubUrl: 'hd173416b.github.io'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
