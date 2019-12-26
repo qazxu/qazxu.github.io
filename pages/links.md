@@ -9,7 +9,7 @@ title: 友情链接
 名称：{{ site.title }}
 描述：{{ site.description }}
 地址：{{ site.githubUrl }}
-头像：{{ site.githubUrl }}static/img/logo.jpg
+头像：{{ site.githubUrl }}/static/img/logo.jpg
 ```
 
 <ul>
