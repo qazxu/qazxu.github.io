@@ -196,3 +196,7 @@ grant all privileges on *.* to 'root'@'%' identified by '123456';
 
 flush privileges;
 ```
+
+### 参考
+- [Manjaro 安装 mariadb 数据库 (命令行安装)](https://blog.csdn.net/qq_40451749/article/details/82288688)
+- [ManjaroLinux安装Mariadb(即mysql)](https://blog.csdn.net/tiandc/article/details/89607756)
