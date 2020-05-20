@@ -1,14 +1,14 @@
 encoding: utf-8
 
 # SEO相关信息
-title: HD173416b Blog
-description: HD173416b的个人博客
+title: xh511 Blog
+description: xh511的个人博客
 keywords: Blog,Java,Html,JavaScript
-author: HD173416b
+author: xh
 footerText: ''
 
 # GitHub.Pages访问站点路径
-githubUrl: 'hd173416b.github.io'
+githubUrl: 'xh511.github.io'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -54,11 +54,11 @@ menu:
 # plugin-mathjax
 # 数学公式支持，比较影响加载速度，请设置为 false
 customPlugins:
-  - use: true
+  - use: false
     file: 'plugin-mta-stats.html'
     sid: 500581966
     cid: 500581972
-  - use: true
+  - use: false
     file: 'plugin-baidu-push.html'
   - use: true
     file: 'plugin-click-effect.html'
