@@ -1,7 +1,8 @@
 ---
 layout: mypost
-title: 关于我
+title: 常用链接
 ---
 
-> Hello 陌生人，欢迎访问 xh511 Blog
-
+- [Redis 命令参考](http://redisdoc.com/index.html)
+- [Docker 指南](https://www.widuu.com/docker/userguide/usingdocker.html)
+- [Maven Repository](http://mvnrepository.com/)
