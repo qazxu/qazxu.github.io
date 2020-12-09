@@ -1,0 +1,15 @@
+---
+layout: mypost
+title: mac 小工具
+categories: [java]
+---
+
+[toc]
+
+### Sunny-Ngrok 内网穿透
+
+http://www.ngrok.cc/user.html
+
+```
+./darwin_amd64/sunny clientid 隧道ID
+```
