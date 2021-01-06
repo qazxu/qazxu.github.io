@@ -1,14 +1,14 @@
 encoding: utf-8
 
 # SEO相关信息
-title: xh511 Blog
-description: xh511的个人博客
+title: xuh Blog
+description: xuh的个人博客
 keywords: Blog,Java,Html,JavaScript
-author: xh
+author: xuh
 footerText: ''
 
 # GitHub.Pages访问站点路径
-githubUrl: 'xh511.github.io'
+githubUrl: 'xuh.xyz'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
